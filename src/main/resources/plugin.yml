@@ -1,0 +1,4 @@
+name: AllahuAkbar
+version: 1.0.0
+main: org.allahuakbar.TerrorCreeper
+api-version: '1.21.1'
