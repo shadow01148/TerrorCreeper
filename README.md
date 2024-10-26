@@ -13,3 +13,9 @@ resource-pack-sha1=a14e9434001b3704d9d7bd62ec50a9aef24d18f1
 ```
 enjoy!!
 
+## yo, where did you get this
+https://www.youtube.com/watch?v=tNHAevzYO_Q
+why did you make this if it already exists
+- 1 deprecated function
+- its not open-source!!!
+- lalalalala
