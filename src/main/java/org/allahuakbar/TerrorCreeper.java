@@ -15,7 +15,6 @@ public class TerrorCreeper extends JavaPlugin implements Listener {
         if (event.getEntityType() == EntityType.CREEPER) {
             Creeper creeper = (Creeper) event.getEntity();
             creeper.setPowered(false);
-            creeper.setMaxFuseTicks(25);
             creeper.customName(Component.text("Terrorist"));
         }
     }
