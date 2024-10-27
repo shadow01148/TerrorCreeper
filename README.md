@@ -18,4 +18,7 @@ https://www.youtube.com/watch?v=tNHAevzYO_Q
 why did you make this if it already exists
 - 1 deprecated function
 - its not open-source!!!
-- lalalalala
+resource pack:
+- it turned sugar into ... something
+- it fucked up language
+- wasnt upto date
